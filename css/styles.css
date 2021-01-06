@@ -1,3 +1,7 @@
+body {
+  background-color: rosybrown;
+}
+
 p.class {
   color:rgb(126, 37, 37)
 }
@@ -7,6 +11,15 @@ div.flashy {
   font-style: italic;
 }
 
-img {
-  width: 200px;
+p {
+  text-align: center;
+  color: white
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
 }
