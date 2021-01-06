@@ -1,0 +1,12 @@
+p.class {
+  color:rgb(126, 37, 37)
+}
+
+div.flashy {
+  color:rgb(126, 37, 37);
+  font-style: italic;
+}
+
+img {
+  width: 200px;
+}
